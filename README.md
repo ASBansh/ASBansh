@@ -1,4 +1,6 @@
-[<div align="center">
+<div align="center">
+
+<img src="./assets/profile.jpg" width="150" height="150" style="border-radius:50%; object-fit:cover;" alt="Anshprit Singh"/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=A67B5B&height=220&section=header&text=Anshprit%20Singh&fontSize=48&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=B.Tech%20CSE%20-%20Data%20Science%20and%20AI%20Student&descAlignY=55&descSize=18" width="100%"/>
 
@@ -26,7 +28,7 @@ const anshpritSingh = {
     aiAndDatabase: ["Oracle AI"],
   },
   launchedProjects: [],
-  certifications: [],
+  certifications: ["Oracle Cloud Infrastructure 2025 Certified AI Foundations Associate"],
   status: "Learning & Building",
   openTo: ["Collaborations", "Learning Opportunities"],
 };
@@ -40,12 +42,15 @@ const anshpritSingh = {
 
 ![Skills](https://skillicons.dev/icons?i=python,java&theme=dark)
 
-**Backend & AI/DB**
+---
 
-| Layer | Technology |
-|---|---|
-| Backend | Backend Development |
-| AI / Database | Oracle AI |
+### 📜 Certifications
+
+<div align="left">
+
+[![Oracle OCI 2025 Certified AI Foundations Associate](https://img.shields.io/badge/Oracle%20OCI%20AI%20Foundations%20Associate-A67B5B?style=for-the-badge&logo=oracle&logoColor=white)](https://catalog-education.oracle.com/pls/certview/sharebadge?id=917E79A023861DE32EE0558B3DB4BFFF57E6E2F4B89468DF423896310389E713)
+
+</div>
 
 ---
 
@@ -80,7 +85,7 @@ const anshpritSingh = {
 
 ### 🔗 Connect With Me
 
-<div align="center">](https://catalog-education.oracle.com/pls/certview/sharebadge?id=917E79A023861DE32EE0558B3DB4BFFF57E6E2F4B89468DF423896310389E713)
+<div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-A67B5B?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anshprit-singh-1180a6373)
 [![GitHub](https://img.shields.io/badge/GitHub-A67B5B?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ASBansh)
