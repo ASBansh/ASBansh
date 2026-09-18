@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/profile.jpg" width="150" height="150" style="border-radius:50%; object-fit:cover;" alt="Anshprit Singh"/>
+<img src="./assets" width="150" height="150" style="border-radius:50%; object-fit:cover;" alt="Anshprit Singh"/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=A67B5B&height=220&section=header&text=Anshprit%20Singh&fontSize=48&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=B.Tech%20CSE%20-%20Data%20Science%20and%20AI%20Student&descAlignY=55&descSize=18" width="100%"/>
 
